@@ -54,6 +54,7 @@ This project is a complete sales analysis of a pizza company using **SQL** and *
 - Pie charts for category and size breakdown
 - Slicers for interactivity and filtering
 - Clean layout and color-coded visuals
+[Excel Dashboard Preview](Dashboard.png)
 
 ---
 
