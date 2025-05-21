@@ -97,7 +97,8 @@ This project is a complete sales analysis of a pizza company using **SQL** and *
 ## 🤝 Let's Connect
 
 - 📧 Email: Malhotrasonal02@gmail.com  
-- 🔗 LinkedIn: http://linkedin.com/in/sonal01 
+- 🔗 LinkedIn: http://linkedin.com/in/sonal01
+- 🔗 Live Repo: https://github.com/malhotrasonal02/pizza-sales-sql-excel
 
 ---
 
